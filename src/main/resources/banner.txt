@@ -1,0 +1,19 @@
+>${AnsiColor.BRIGHT_BLUE} Softtech Cloud Starter ${application.title}:${application.version} ${AnsiColor.WHITE}
+>${AnsiColor.BRIGHT_BLUE} :: Spring Boot :: ${spring-boot.version} ${AnsiColor.WHITE}
+
+ ${AnsiColor.BLUE}==${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}== ${AnsiColor.RED}=============================================
+ ${AnsiColor.BLUE}====${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}==== ${AnsiColor.WHITE}=============================================
+ ${AnsiColor.BLUE}==${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}== ${AnsiColor.RED}=============================================
+ ${AnsiColor.BLUE}====${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}==== ${AnsiColor.WHITE}=============================================
+ ${AnsiColor.BLUE}==${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}== ${AnsiColor.RED}=============================================
+ ${AnsiColor.BLUE}====${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}==== ${AnsiColor.WHITE}=============================================
+ ${AnsiColor.BLUE}==${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}== ${AnsiColor.RED}=============================================
+ ${AnsiColor.BLUE}====${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}==== ${AnsiColor.WHITE}=============================================
+ ${AnsiColor.BLUE}==${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}===${AnsiColor.WHITE}*${AnsiColor.BLUE}== ${AnsiColor.RED}=============================================
+ ${AnsiColor.WHITE}=======================================================================
+ ${AnsiColor.RED}=======================================================================
+ ${AnsiColor.WHITE}=======================================================================
+ ${AnsiColor.RED}=======================================================================
+ ${AnsiColor.WHITE}=======================================================================
+ ${AnsiColor.RED}=======================================================================
+ ${AnsiColor.WHITE}
