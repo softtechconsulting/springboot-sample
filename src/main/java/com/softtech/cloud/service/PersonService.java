@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@RestController("person")
+@RestController()
 @RequestMapping(path = "/api/person", produces = APPLICATION_JSON_UTF8_VALUE)
 public class PersonService {
 
@@ -27,17 +27,17 @@ public class PersonService {
         throw new UnsupportedOperationException();
     }
 
-    @GetMapping("/{id}")
+    @GetMapping("{id}")
     public Person findById(String id) {
         throw new UnsupportedOperationException();
     }
 
-    @PutMapping("/{id}")
+    @PutMapping("{id}")
     public Person update(@PathVariable(name = "id", required = true) String id, @RequestBody Person person) {
         throw new UnsupportedOperationException();
     }
 
-    @DeleteMapping("/{id}")
+    @DeleteMapping("{id}")
     public Person delete(@PathVariable(name = "id", required = true) String id) {
         throw new UnsupportedOperationException();
     }
